@@ -10,11 +10,7 @@ Objetivo 2, comparação: comparar o desempenho entre base de dados desbalancead
 
 Maiores dificuldades encontradas:
 
--> Construir o projeto sozinha.
-
 -> Lidar com um método (SMOTE) nunca antes estudado e aplicado.
-
--> Ainda fico confusa em relação a Encoders e Scalers.
 
 Base de dados disponível em:
 https://www.kaggle.com/datasets/rupakroy/online-payments-fraud-detection-dataset
