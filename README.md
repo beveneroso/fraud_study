@@ -1,4 +1,4 @@
-# fraud_study
+# Estudo sobre Fraude
 
 NNesse estudo o objetivo era avaliar e testar um método de balanceamento de base de dados e, para isso, foi escolhido um dataset de fraude. 
 
